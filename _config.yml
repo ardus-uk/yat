@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wigton Choral Society
-email: contactus@wigtonchoral.org.uk
-author: Wigton Choral Society
+title: ARDUS
+email: admin@ardus.co.uk
+author: ARDUS
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,13 +40,13 @@ author: Wigton Choral Society
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "(c) {currentYear} Wigton Choral Society"
+copyright: "(c) {currentYear} ARDUS"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  A friendly, community-based Choral Society in Wigton, Cumbria, UK.
+  Information Management Consultants.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.wigtonchoral.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ardus.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/images/favicon.ico" # the favicon for your site
 
 # Yat date format
@@ -120,7 +120,7 @@ sitemap: true
 # greatgold: #f2cb05
 # greenblue: #389092
 #
-brand_color: orangered
+brand_color: greatgold
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
@@ -151,17 +151,17 @@ brand_color: orangered
 header_pages:
   - index.html
   - about.md
-  - support.md
-  - archives.html
-  - categories.html
-  - tags.html
+  - contact.md
+#  - archives.html
+#  - categories.html
+#  - tags.html
 
 # Page default value
 defaults:
   home:
-    heading: "Wigton Choral Society"
-    subheading: "Making Music in North Cumbria"
-    banner: "/assets/images/banners/home.jpeg"
+    heading: "ARDUS"
+    subheading: "Information Management Consultants"
+    banner: "/assets/images/banners/home.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -183,7 +183,7 @@ defaults:
 # excerpt_size: 350
 
 # Pagination setting
-paginate: 5
+# paginate: 5
 
 # Disqus comments
 # disqus:
