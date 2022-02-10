@@ -2,7 +2,7 @@
 layout: about
 title: About
 subtitle: "Our organisation and activities"
-banner: "/assets/images/banners/kbd.jpg"
+banner: "/assets/images/banners/meet1.jpg"
 ---
 
 ## About Us
