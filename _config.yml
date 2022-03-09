@@ -197,6 +197,9 @@ defaults:
 #   client_secret: "Your client secret"
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
 
+# Formspree
+formspree_id: xknyjyoj
+
 # Build settings
 # highlighter: none
 markdown: kramdown
