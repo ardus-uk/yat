@@ -22,4 +22,4 @@ Get in touch with us [here](/contact.html).
 
 ## New Projects
 
-Please note that we are committed to supporting our existing clients.   We are currently working to capacity and so intend not to accept any new projects during 2022.
+Please note that we are committed to supporting our existing clients.   We are currently working to capacity and so intend not to accept any new projects at present.
